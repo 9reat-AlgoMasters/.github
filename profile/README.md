@@ -64,7 +64,7 @@
 ## 🏆 Coding-Test
 매 달 스터디의 마지막 주차에 팀 내 자체 코딩테스트를 봅니다. 해당 달에서 공부한 내용이 코딩테스트의 주제가 되고 출제는 팀원 모두가 참여합니다.
 
-** 매달 스터디 내용은 [여기](./summary/README.md)에서 확인하실 수 있습니다.
+** 매달 스터디 내용은 [여기](https://github.com/9reat-AlgoMasters/.github/blob/main/profile/summary/README.md)에서 확인하실 수 있습니다.
 
 <br>
 
@@ -93,7 +93,7 @@
         - ex) solve: boj Q1336 문제 풀이
         - ex2) impl: 가중치 뱡향 그래프 구현
     - 커밋 제목에 담기 어려운 세부사항은 커밋 본문에 담습니다.
-    - 스터디의 [commit convention](./informations/commit%20conventions.md)을 지켜서 commit을 합니다. 
+    - 스터디의 [commit convention](https://github.com/9reat-AlgoMasters/.github/blob/main/profile/informations/commit%20conventions.md)을 지켜서 commit을 합니다. 
 
 2. 답을 참고한 문제에 대해서는
 
