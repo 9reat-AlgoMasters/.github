@@ -66,6 +66,11 @@
 
 ** 매달 스터디 내용은 [여기](https://github.com/9reat-AlgoMasters/.github/blob/main/profile/summary/README.md)에서 확인하실 수 있습니다.
 
+** **Repository Name**
+> {month}{week}-{Subject}-{Topics}
+ex1) 0101-ps-dfs_backtracking : 1번째달 1주차 Problem Solving 스터디 - dfs, backtracing
+ex2) 0102-implementation-sort1 : 1번째달 2주차 Implementation 스터디 - 정렬1
+
 <br>
 
 ---
